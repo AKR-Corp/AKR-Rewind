@@ -39,37 +39,36 @@ Disponible sur le **Web**, sur **Windows**, ainsi que sur **macOS**, **iOS** et 
 
 ## 📥 Téléchargement
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-
-### 🌐 Sur le Web
-
-👉 **[Ouvrir AKR Rewind](https://rewind.akra13.fr)**
-
+<div align="center">
+<h3>🌐 Sur le Web</h3>
+<a href="https://rewind.akra13.fr">👉 <b>Ouvrir AKR Rewind</b></a>
+<br><br>
 Aucune installation
-
+</div>
 </td>
 <td width="33%" align="center" valign="top">
-
-### 🖥️ Sur Windows
-
-👉 **[Télécharger AKR Rewind](https://dl.akra13.fr/AKRRewind)**
-
+<div align="center">
+<h3>🖥️ Sur Windows</h3>
+<a href="https://dl.akra13.fr/AKRRewind">👉 <b>Télécharger AKR Rewind</b></a>
+<br><br>
 Logiciel dédié
-
+</div>
 </td>
 <td width="33%" align="center" valign="top">
-
-###  Sur l'App Store
-
-👉 **[Télécharger sur l'App Store](https://apps.apple.com/app/akr-rewind/id6823202444)**
-
+<div align="center">
+<h3> Sur l'App Store</h3>
+<a href="https://apps.apple.com/app/akr-rewind/id6823202444">👉 <b>Télécharger sur l'App Store</b></a>
+<br><br>
 💻 macOS · 📱 iOS · 📲 iPadOS
-
+</div>
 </td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 
